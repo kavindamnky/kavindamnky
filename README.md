@@ -1,3 +1,5 @@
+
+[![MasterHead](https://cdn.discordapp.com/attachments/1146381951213768724/1288992891984674837/27b21243661487.57fb8ab79b529.gif?ex=66f733ad&is=66f5e22d&hm=410107de6c4b2ec9088f49eb2a89b77e7f791b809da5d9144353557b558a33c8&)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vikum Kavinda</h1>
 <h3 align="center">A UI/UX developer & beginner in coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063871/screenshots/6377981/ux-design.gif">
