@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [SriLife Roleplay](https://discord.gg/XthZKPfSEd)
 
-- ⭕ I’m currently learning **QB core Framework[FIVEM]**
+- ⭕ I’m currently learning [QB Core framework 5M](https://qbcore.net/)
 
 - 💼 CEO & CFO @ [M"Builds Studios ⚡](https://discord.gg/g76NKj72gg)
 
@@ -18,9 +18,9 @@
 
 - 👨‍💻 All of my designs are available at (https://www.behance.net/mbuildstudios)
 
-- 💬 Ask me about **UI/UX & Concept Devolopment**
-
 - 📫 How to reach me **vikumkavindanara137@gmail.com**
+
+- 💬 Ask me about **UI/UX & Concept Devolopment**
 
 <h3 align="left"> Tools 🛠️</h3>
 
