@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [SriLife Roleplay](https://discord.gg/XthZKPfSEd)
 
-- ⭕ I’m currently learning [QB Core framework 5M](https://qbcore.net/)
+- ⭕ I’m currently learning [QBox Core framework 5M](https://www.qbox.re/)
 
 - 💼 CEO & CFO @ [M"Builds Studios ⚡](https://discord.gg/g76NKj72gg)
 
