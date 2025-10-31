@@ -3,17 +3,17 @@
 
 <h1 align="center">Hi 👋, I'm Vikum Kavinda</h1>
 <h3 align="center">A UI/UX developer & beginner in coding!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063871/screenshots/6377981/ux-design.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1150175112872591451/1433721366644789298/799e0d7779f6ea6c3a89885ff60c55af.gif?ex=6905b893&is=69046713&hm=efe770d5a65bba355af09a44db8aa5d85ec8a6c686f32a44caf79442dc02fbec&">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindamnky&label=Profile%20views&color=0e75b6&style=flat" alt="kavindamnky" /> </p>
 
 <p align="left"> <a href="https://twitter.com/narangoda_vikum" target="blank"><img src="https://img.shields.io/twitter/follow/narangoda_vikum?logo=twitter&style=for-the-badge" alt="narangoda_vikum" /></a> </p>
 
-- 🔭 I’m currently working on [SriLife Roleplay](https://discord.gg/XthZKPfSEd)
+- 🔭 I’m currently working on [Lumen Works](https://lumenworks.lk/)
 
 - ⭕ I’m currently learning [QBox Core framework 5M](https://www.qbox.re/)
 
-- 💼 CEO & CFO @ [M"Builds Studios ⚡](https://discord.gg/g76NKj72gg)
+<!-- - 💼 CEO & CFO @ [M"Builds Studios ⚡](https://discord.gg/g76NKj72gg) -->
 
 - 🎨 Editor @ [Ceylon Network Inc 🖌️](https://discord.com/invite/w6q2JcZYPm)
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,blender,git,bootstrap,codepen,bots,figma,flutter,idea,ai,md,nginx,ps,powershell,pr,unity,unreal,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,,blender,git,bootstrap,bots,figma,flutter,idea,ai,md,ps,powershell,pr,unity,unreal,vscode,xd" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,mongodb,mysql,lua,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,mysql,lua" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,discord,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,devto,firebase,gcp,discord,github,heroku,netlify,vercel,replit,postman,wordpress" />
   </a>
 </p>
 
