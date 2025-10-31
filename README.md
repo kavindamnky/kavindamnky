@@ -1,5 +1,6 @@
 
-![MasterHead]([https://cdn.discordapp.com/attachments/1150175112872591451/1433589595827605596/7b871cee4ff324b9cc17ea028b4074ce.jpg?ex=69053dd](https://cdn.discordapp.com/attachments/1150175112872591451/1433718274746613814/image.png?ex=6905b5b1&is=69046431&hm=1730e07f097bcbada908b2f99a8f366a6c14134cbb4d1d2342bfa87b3baed328&))
+[![MasterHead](https://cdn.discordapp.com/attachments/1150175112872591451/1433718274746613814/image.png?ex=6905b5b1&is=69046431&hm=1730e07f097bcbada908b2f99a8f366a6c14134cbb4d1d2342bfa87b3baed328&)](https://cdn.discordapp.com/attachments/1150175112872591451/1433589595827605596/7b871cee4ff324b9cc17ea028b4074ce.jpg)
+
 <h1 align="center">Hi 👋, I'm Vikum Kavinda</h1>
 <h3 align="center">A UI/UX developer & beginner in coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063871/screenshots/6377981/ux-design.gif">
