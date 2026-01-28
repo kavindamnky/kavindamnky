@@ -1,5 +1,5 @@
 
-![MasterHead](https://cdn.discordapp.com/attachments/1150175112872591451/1433718274746613814/image.png?ex=697a6271&is=697910f1&hm=f463f2b7a4dea4156265d434d6bcd0961eac5481e80cdd1aaaa142480160f8f7&)
+![MasterHead](https://cdn.discordapp.com/attachments/1150175112872591451/1465957511210340507/image_1.png?ex=697afed2&is=6979ad52&hm=1ec2b1d00c153c68d9cf993c698fa21ff075ebcae6adf806b13b103f15897ed6&)
 
 
 <h1 align="center">Hi 👋, I'm Vikum Kavinda</h1>
